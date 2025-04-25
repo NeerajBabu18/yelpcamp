@@ -1,0 +1,302 @@
+[
+    {
+        "title": "Maple Ridge",
+        "price": "58.00",
+        "description": "Experience the wild with style and comfort.",
+        "location": "Death Valley, California"
+    },
+    {
+        "title": "Lone Pine",
+        "price": "72.00",
+        "description": "Ideal for hiking and stargazing.",
+        "location": "Arches National Park, Utah"
+    },
+    {
+        "title": "Misty Mountains",
+        "price": "54.00",
+        "description": "Experience the wild with style and comfort.",
+        "location": "Big Sur, California"
+    },
+    {
+        "title": "Birch Bend",
+        "price": "96.00",
+        "description": "A peaceful getaway surrounded by nature.",
+        "location": "Zion National Park, Utah"
+    },
+    {
+        "title": "Highland Escape",
+        "price": "32.00",
+        "description": "Secluded and quiet\u2014perfect for a retreat.",
+        "location": "Yosemite National Park, California"
+    },
+    {
+        "title": "Spruce Haven",
+        "price": "55.00",
+        "description": "Secluded and quiet\u2014perfect for a retreat.",
+        "location": "Lake Tahoe, California"
+    },
+    {
+        "title": "Riverbend Camp",
+        "price": "32.00",
+        "description": "Close to the lake, great for swimming and fishing.",
+        "location": "Mount Rainier, Washington"
+    },
+    {
+        "title": "Shadow Lake",
+        "price": "62.00",
+        "description": "Secluded and quiet\u2014perfect for a retreat.",
+        "location": "Acadia National Park, Maine"
+    },
+    {
+        "title": "Tranquil Timber",
+        "price": "43.00",
+        "description": "Nestled in the hills, offering scenic views.",
+        "location": "Glacier National Park, Montana"
+    },
+    {
+        "title": "Hidden Brook",
+        "price": "80.00",
+        "description": "Nestled in the hills, offering scenic views.",
+        "location": "Joshua Tree, California"
+    },
+    {
+        "title": "Birch Bend",
+        "price": "47.00",
+        "description": "Experience the wild with style and comfort.",
+        "location": "Redwood National Park, California"
+    },
+    {
+        "title": "Willow Springs",
+        "price": "88.00",
+        "description": "Rustic charm with the essentials you need.",
+        "location": "Banff National Park, Alberta"
+    },
+    {
+        "title": "Misty Mountains",
+        "price": "28.00",
+        "description": "Nestled in the hills, offering scenic views.",
+        "location": "Acadia National Park, Maine"
+    },
+    {
+        "title": "Campfire Cove",
+        "price": "45.00",
+        "description": "Secluded and quiet\u2014perfect for a retreat.",
+        "location": "Grand Teton National Park, Wyoming"
+    },
+    {
+        "title": "Moonlight Ridge",
+        "price": "68.00",
+        "description": "Rustic charm with the essentials you need.",
+        "location": "Big Sur, California"
+    },
+    {
+        "title": "Starlight Valley",
+        "price": "15.00",
+        "description": "A camper's paradise with modern amenities.",
+        "location": "Grand Canyon, Arizona"
+    },
+    {
+        "title": "Snowy Ridge",
+        "price": "25.00",
+        "description": "Reconnect with nature in this serene haven.",
+        "location": "Shenandoah National Park, Virginia"
+    },
+    {
+        "title": "Vista Point",
+        "price": "76.00",
+        "description": "Rustic charm with the essentials you need.",
+        "location": "Glacier National Park, Montana"
+    },
+    {
+        "title": "Boulder Creek",
+        "price": "28.00",
+        "description": "Ideal for hiking and stargazing.",
+        "location": "Joshua Tree, California"
+    },
+    {
+        "title": "Fox Run",
+        "price": "10.00",
+        "description": "Nestled in the hills, offering scenic views.",
+        "location": "Rocky Mountain National Park, Colorado"
+    },
+    {
+        "title": "Sunset Hollow",
+        "price": "33.00",
+        "description": "Family-friendly campground with lots of space.",
+        "location": "Lake Tahoe, California"
+    },
+    {
+        "title": "Misty Mountains",
+        "price": "98.00",
+        "description": "Close to the lake, great for swimming and fishing.",
+        "location": "Glacier National Park, Montana"
+    },
+    {
+        "title": "Pine Creek",
+        "price": "66.00",
+        "description": "Rustic charm with the essentials you need.",
+        "location": "Rocky Mountain National Park, Colorado"
+    },
+    {
+        "title": "Starlight Valley",
+        "price": "67.00",
+        "description": "Close to the lake, great for swimming and fishing.",
+        "location": "Great Smoky Mountains, Tennessee"
+    },
+    {
+        "title": "Fox Run",
+        "price": "84.00",
+        "description": "Close to the lake, great for swimming and fishing.",
+        "location": "Great Smoky Mountains, Tennessee"
+    },
+    {
+        "title": "Wildflower Glen",
+        "price": "58.00",
+        "description": "A peaceful getaway surrounded by nature.",
+        "location": "Rocky Mountain National Park, Colorado"
+    },
+    {
+        "title": "Rustic River",
+        "price": "77.00",
+        "description": "A peaceful getaway surrounded by nature.",
+        "location": "Arches National Park, Utah"
+    },
+    {
+        "title": "Camp Horizon",
+        "price": "75.00",
+        "description": "Experience the wild with style and comfort.",
+        "location": "Redwood National Park, California"
+    },
+    {
+        "title": "Boulder Creek",
+        "price": "30.00",
+        "description": "Close to the lake, great for swimming and fishing.",
+        "location": "Lake Tahoe, California"
+    },
+    {
+        "title": "Willow Springs",
+        "price": "77.00",
+        "description": "Rustic charm with the essentials you need.",
+        "location": "Bryce Canyon, Utah"
+    },
+    {
+        "title": "Snowy Ridge",
+        "price": "53.00",
+        "description": "Secluded and quiet\u2014perfect for a retreat.",
+        "location": "Lake Tahoe, California"
+    },
+    {
+        "title": "Spruce Haven",
+        "price": "91.00",
+        "description": "Nestled in the hills, offering scenic views.",
+        "location": "Bryce Canyon, Utah"
+    },
+    {
+        "title": "Raven's Roost",
+        "price": "72.00",
+        "description": "Nestled in the hills, offering scenic views.",
+        "location": "Rocky Mountain National Park, Colorado"
+    },
+    {
+        "title": "Sunset Hollow",
+        "price": "77.00",
+        "description": "Reconnect with nature in this serene haven.",
+        "location": "Glacier National Park, Montana"
+    },
+    {
+        "title": "Camp Horizon",
+        "price": "46.00",
+        "description": "Secluded and quiet\u2014perfect for a retreat.",
+        "location": "Bryce Canyon, Utah"
+    },
+    {
+        "title": "Falcon Crest",
+        "price": "49.00",
+        "description": "Secluded and quiet\u2014perfect for a retreat.",
+        "location": "Yellowstone National Park, Wyoming"
+    },
+    {
+        "title": "Red Rock Retreat",
+        "price": "15.00",
+        "description": "Close to the lake, great for swimming and fishing.",
+        "location": "Redwood National Park, California"
+    },
+    {
+        "title": "Whispering Pines",
+        "price": "93.00",
+        "description": "Rustic charm with the essentials you need.",
+        "location": "Bryce Canyon, Utah"
+    },
+    {
+        "title": "Boulder Creek",
+        "price": "61.00",
+        "description": "Reconnect with nature in this serene haven.",
+        "location": "Grand Teton National Park, Wyoming"
+    },
+    {
+        "title": "Silver Falls",
+        "price": "91.00",
+        "description": "Secluded and quiet\u2014perfect for a retreat.",
+        "location": "Mount Rainier, Washington"
+    },
+    {
+        "title": "Snowy Ridge",
+        "price": "88.00",
+        "description": "Close to the lake, great for swimming and fishing.",
+        "location": "Arches National Park, Utah"
+    },
+    {
+        "title": "Hawk's Landing",
+        "price": "33.00",
+        "description": "Close to the lake, great for swimming and fishing.",
+        "location": "Great Smoky Mountains, Tennessee"
+    },
+    {
+        "title": "Bear Creek",
+        "price": "79.00",
+        "description": "Family-friendly campground with lots of space.",
+        "location": "Bryce Canyon, Utah"
+    },
+    {
+        "title": "Juniper Hill",
+        "price": "62.00",
+        "description": "Close to the lake, great for swimming and fishing.",
+        "location": "Zion National Park, Utah"
+    },
+    {
+        "title": "Whispering Pines",
+        "price": "31.00",
+        "description": "A peaceful getaway surrounded by nature.",
+        "location": "Yellowstone National Park, Wyoming"
+    },
+    {
+        "title": "Timberline Base",
+        "price": "59.00",
+        "description": "Ideal for hiking and stargazing.",
+        "location": "Zion National Park, Utah"
+    },
+    {
+        "title": "Riverbend Camp",
+        "price": "67.00",
+        "description": "Nestled in the hills, offering scenic views.",
+        "location": "Redwood National Park, California"
+    },
+    {
+        "title": "Misty Mountains",
+        "price": "34.00",
+        "description": "Family-friendly campground with lots of space.",
+        "location": "Banff National Park, Alberta"
+    },
+    {
+        "title": "Moonlight Ridge",
+        "price": "35.00",
+        "description": "Experience the wild with style and comfort.",
+        "location": "Arches National Park, Utah"
+    },
+    {
+        "title": "Ashwood Knoll",
+        "price": "87.00",
+        "description": "A camper's paradise with modern amenities.",
+        "location": "Yosemite National Park, California"
+    }
+]
