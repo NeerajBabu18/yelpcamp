@@ -1,6 +1,7 @@
 const express = require('express')
 const mongoose = require('mongoose')
 const path = require('path')
+const ejsMate = require('ejs-mate')
 const Campground = require('./models/campground')
 const methodOverride = require('method-override')
 
@@ -14,6 +15,7 @@ mongoose.connect('mongodb://127.0.0.1:27017/yelp-camp')
 
 const app = express()
 
+app.engine('ejs', ejsMate)
 app.use(methodOverride('_method'))
 app.use(express.urlencoded({ extended: true }))
 
