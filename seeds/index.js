@@ -17,13 +17,23 @@ mongoose.connect('mongodb://127.0.0.1:27017/yelp-camp')
         console.log(err, "Mongo Connection Error!")
     })
 
-const seedDB = async () => {
+const seedDB = async (campgrounds) => {
     await Campground.deleteMany({})
-    await Campground.insertMany(campgrounds)
+    for (let campground of campgrounds) {
+        const camp = new Campground({
+            title: campground.title,
+            location: campground.location,
+            description: campground.description,
+            price: Number(campground.price),
+            image: `https://picsum.photos/400?random=${Math.random()}`
+
+        })
+        await camp.save()
+    }
     console.log('Database seeded')
 }
 
-seedDB().then(() => {
+seedDB(campgrounds).then(() => {
     mongoose.connection.close()
     console.log('Connection closed')
 })
